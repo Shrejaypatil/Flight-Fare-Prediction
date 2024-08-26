@@ -4,7 +4,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn-yellow.svg)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20Numpy-green.svg)
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 ## 🚀 Project Overview
 
@@ -45,7 +44,7 @@ The `flight_fare_prediction.py` script automates the following tasks:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Flight-Fare-Prediction.git
+    git clone https://github.com/Shrejaypatil/Flight-Fare-Prediction.git
     cd Flight-Fare-Prediction
     ```
 
